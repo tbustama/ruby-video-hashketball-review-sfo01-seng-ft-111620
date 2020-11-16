@@ -164,7 +164,7 @@ def player_numbers(team)
       end
     end
   end
-  return nums
+  nums
 end
 
 def team_names
